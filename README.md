@@ -15,3 +15,6 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python src/pipeline_v1.py
+
+## Architecture (simple)
+CDP-style data (CSV) → Feature Engineering → Segmentation (K-Means) → Activation Output (CSV)
