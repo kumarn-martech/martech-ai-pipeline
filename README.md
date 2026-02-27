@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MarTech AI Pipeline (v1): Segmentation → Activation
 
 A beginner-friendly project that simulates a CDP-style customer dataset, builds features, segments users using K-Means, and generates an activation file that can be used to trigger journeys (SFMC-style).
